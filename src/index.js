@@ -1,3 +1,3 @@
 module.exports = function warmup(temperature) {
- return temperature * 9/5 + 52; 
+ return temperature * 9/5 + 32; 
 };
